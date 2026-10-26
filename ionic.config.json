@@ -1,0 +1,7 @@
+{
+  "name": "proyectoBase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
